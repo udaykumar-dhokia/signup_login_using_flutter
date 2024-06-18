@@ -1,4 +1,4 @@
-# Modern Signup & Login Page with flutter
+# Modern Signup & Login Page with Flutter
 
 This repository provides a Flutter code implementing modern and visually appealing UI components for user signup and login functionalities. It's designed to streamline the development process for your Flutter applications.
 
